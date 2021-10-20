@@ -1,0 +1,36 @@
+Tell me something Yourself
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Hi This is Sanjeeb from odisha, Currently working at testyantra Software Solutions  as a senior test engineer.Before coming to testyantra i was there at Arilus 
+Technolgy pvt ltd , where I joined as a manual Test Engineer initially and After one year i got a chance to switched to automation.
+                                                                    I am having a total 3 years of experience in software Testing.I have a good experience in Testplan,
+test executiion and defect reporting and tracking.I have a great experience in tools like Automation tool-selenium webdriver, Unit Testing Tool-TestNG,Version control
+Tool-Github,Build Management Tool-Maven, CI/CD tool-jenkins.
+                                               I was involved in Framework devlopment Activity,Basically I designed some of the generic libreries like BaseClass,
+Web driver Utilities, POM classes. Sometimes I was helpng my team members by giving KT to them.Whenever I got a Testcase as a automation test engineer i go through it 
+manually to understand the flow of the test cases and also check whether the test case is automatable or not. When ever I got the executoon report from jenkins I 
+always go through the report to check the test cases pass or not ,if any test case got failed i started debug it to check the root cause of the failure. I was involved
+in handling the git conflict also.Also involved in maintainning the dependencies in the POM class. Our company followed Agile Methodology an I was a prt of Scrum Team 
+also where I was attended some meetings like sprint planning meeeting- where we discuss about the planning and time consumption to complete a sprint, Daily standup
+Meeting and Retrospect Meeting.         
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+My project name was 'ALtern' which is a marketing domain project. My Client is a service based company provides services like Drafting,3D- Rendering ,Interior designs.
+To store all the informations, starting from strategies to customers details in a well organised way my cllient need a software.
+                               My client followed some marketing strategies to get more customers, so to store all the marketing strategies we developed a module 
+called as agitate. By useing this marketing strategies my client got some customers so to store the details of the customers we devloped a module named as 'dominer'.
+From those customers some wanted to use the services of my client we can call them as leads and to store the details of leads we developed another module named as 
+'Inherent'. After this my client prepare quotations, price orders, invoice for the customers. Thats why we devloped some other modules like inventory,snippet, procure
+order.
+              In this project i was involved in testing some of the modules. I use to do functional testing where i use to verify each and every contains of the 
+applications according to the requirements. I used to do integretion testing to test the data transfer from modules to module also. Whenever  i got a stable build 
+I did regression testing to check whether the privious defects are fixed or not and also check whether the newly changed feature impact the privously added feature.
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+company details
+----------------
+company name= Ariius Technology Pvt Ltd
+place- near gurappa Avenue,MG road Banglore
+hr name= Mohamad Sahid
+services-custome services,it consulting,vlsi,mobile application,quality assurance...
+
